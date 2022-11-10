@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "404617533816",
+    "project_id": "social-app-15c46",
+    "storage_bucket": "social-app-15c46.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:404617533816:android:e9549319f9ff7e0227d08d",
+        "android_client_info": {
+          "package_name": "com.example.social_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "404617533816-i6itist4r7stfs0flp6befn042v0sfr3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.social_app",
+            "certificate_hash": "afed93beb23c7c879cb027f597f60bd8103aa227"
+          }
+        },
+        {
+          "client_id": "404617533816-nihsi9rfpks09supbvhma7n0nngu8tnk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBo4DTvFxHWeSwmyFmfZqwQpp0Yc-tOkQ8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "404617533816-nihsi9rfpks09supbvhma7n0nngu8tnk.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "404617533816-ht720pb894eduf019rs0034pajpu82eh.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.socialApp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:404617533816:android:98bb4ac367a3165e27d08d",
+        "android_client_info": {
+          "package_name": "com.example.social_chat_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "404617533816-f045sosv5n062d8srvr9tj3vovk7bj12.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.social_chat_app",
+            "certificate_hash": "afed93beb23c7c879cb027f597f60bd8103aa227"
+          }
+        },
+        {
+          "client_id": "404617533816-nihsi9rfpks09supbvhma7n0nngu8tnk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBo4DTvFxHWeSwmyFmfZqwQpp0Yc-tOkQ8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "404617533816-nihsi9rfpks09supbvhma7n0nngu8tnk.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "404617533816-ht720pb894eduf019rs0034pajpu82eh.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.socialApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
